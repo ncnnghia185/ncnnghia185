@@ -1,19 +1,16 @@
 <h1 align="center">👋 Hi everyone, Welcome to my github profile</h1>
----
 
 <h1 align="center">I am Nguyen Chi Nghia but you can call me Toof (Tồ)</h1>
 <h3 align="center">A Junior web developer from VietNam <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"/></h3>
 
 ---
 
-### 🚀 About Me
+<img src="assets/aboutme.svg" width="20" alt="about me"/> About Me
 
-- 🔭 I’m currently working on **[tên dự án hoặc sản phẩm]**
-- 🌱 I’m currently learning **[tech bạn đang học, ví dụ: Kubernetes, AI, etc.]**
-- 👯 I’m looking to collaborate on **[các dạng dự án open-source hoặc công nghệ bạn thích]**
-- 💬 Ask me about **[chủ đề bạn rành, ví dụ: Node.js, Django, Microservices, etc.]**
-- 📫 How to reach me: **[email của bạn hoặc link LinkedIn, Portfolio]**
-- ⚡ Fun fact: **[một điều thú vị về bạn, ví dụ: I love solving logic puzzles!]**
+- <img src="assets/laptop.svg" width="18" alt="experience"/> I have nearly 2 years of experience as a web developer, working in both frontend and backend roles.
+- <img src="assets/company.svg" width="18" alt="worked"/> I have worked at 3 different companies, gaining hands-on experience in real-world projects.
+- <img src="assets/design.svg" width="18" alt="design"/> Besides coding, I also have some experience with UX/UI design using Visily and Figma.
+- <img src="assets/email.svg" width="18" alt="email"/> Reach me anytime: ncn180501@gmail.com
 
 ---
 
