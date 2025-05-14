@@ -70,7 +70,7 @@
 
 <p align="center">
 <a href="mailto:ncn180501@gmail.com"><img src="https://img.shields.io/badge/-ncn180501@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/nghia.nguyenchi.3597/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/nghia.nguyenchi.3597/"><img src="https://img.shields.io/badge/-@nguyenchinghia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
