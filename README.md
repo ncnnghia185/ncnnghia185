@@ -18,12 +18,14 @@
 
 ### <img src="assets/technology.svg" width="22" alt="technology"/> <span>Tech Stack</span>
 
-- Languages
+- Languages:
+
 	![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 	![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-	![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+	![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
-🌐 Frontend:  
+🌐 Frontend: 
+
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 	![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 	![SCSS](https://img.shields.io/badge/-SCSS-fff?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
@@ -35,6 +37,7 @@
 
 
 🔧 Backend:  
+
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 	![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
 	![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
@@ -45,14 +48,12 @@
 	![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 	![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 
-
-<p align="left">
 🔌 DevOps & Tools:  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 	![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 	![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 	![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
-</p>
+
 
 ---
 
