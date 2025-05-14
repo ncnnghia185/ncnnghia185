@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi everyone, I am Nguyen Chi Nghia but you can call me Toof(Tồ)</h1>
+<h1 align="center">👋 Hi everyone, Welcome to my github profile</h1>
+---
+
+<h1 align="center">I am Nguyen Chi Nghia but you can call me Toof (Tồ)</h1>
 <h3 align="center">A Junior web developer from VietNam <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"/></h3>
 
 ---
