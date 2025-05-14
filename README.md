@@ -1,5 +1,5 @@
-# 👋 Hi there! I'm NGUYEN CHI NGHIA
+# 👋 Hi there! I'm NGUYEN CHI NGHIA and you can call me Toof
 
-Welcome to my GitHub profile! I'm a passionate web developer !
+And Welcome to my GitHub profile! 
 # 
 
