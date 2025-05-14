@@ -5,7 +5,7 @@
 
 ---
 
-<img src="assets/information.svg" width="22" alt="about me"/> <h3>About me</h3>
+<p align="center"><img src="assets/information.svg" width="22" alt="about me"/> <h3>About me</h3></p>
 
 - <img src="assets/laptop.svg" width="20" alt="experience"/> I have nearly 2 years of experience as a web developer, working in both frontend and backend roles.
 - <img src="assets/company.svg" width="20" alt="worked"/> I have worked at 3 different companies, gaining hands-on experience in real-world projects.
