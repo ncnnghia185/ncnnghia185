@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Tên của bạn]</h1>
-<h3 align="center">A passionate [Web Developer / Backend Developer / Data Enthusiast / etc.] from [quốc gia]</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
-</p>
+<h1 align="center">👋 Hi everyone, I am Nguyen Chi Nghia but you can call me Toof(Tồ)</h1>
+<h3 align="center">A Junior web developer from VietNam <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"/></h3>
 
 ---
 
