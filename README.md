@@ -5,27 +5,31 @@
 
 ---
 
-<img src="assets/aboutme.svg" width="20" alt="about me"/> About Me
+<img src="assets/information.svg" width="22" alt="about me"/> <h3>About me</h3>
 
-- <img src="assets/laptop.svg" width="18" alt="experience"/> I have nearly 2 years of experience as a web developer, working in both frontend and backend roles.
-- <img src="assets/company.svg" width="18" alt="worked"/> I have worked at 3 different companies, gaining hands-on experience in real-world projects.
-- <img src="assets/design.svg" width="18" alt="design"/> Besides coding, I also have some experience with UX/UI design using Visily and Figma.
-- <img src="assets/email.svg" width="18" alt="email"/> Reach me anytime: ncn180501@gmail.com
+- <img src="assets/laptop.svg" width="20" alt="experience"/> I have nearly 2 years of experience as a web developer, working in both frontend and backend roles.
+- <img src="assets/company.svg" width="20" alt="worked"/> I have worked at 3 different companies, gaining hands-on experience in real-world projects.
+- <img src="assets/design.svg" width="20" alt="design"/> Besides coding, I also have some experience with UX/UI design using Visily and Figma.
+- <img src="assets/email.svg" width="20" alt="email"/> Reach me anytime: ncn180501@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="assets/technology.svg" width="22" alt="technology"/> <h3>Tech Stack</h3>
 
-- 💻 Languages:  
-  `JavaScript` `TypeScript` `Python` `SQL`
+- Languages
+<p align="left"> 
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>  <span>JavaScript</span>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/> <span>TypeScript</span>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> <span>Python</span>
+</p>
 - 🌐 Frontend:  
-  `React.js` `Next.js` `Tailwind CSS`
+  `HTML` `CSS` `SCSS` `React.js` `Next.js` `Tailwind CSS` `Antd Design` `Material UI`
 - 🔧 Backend:  
-  `Node.js` `Express.js` `Django` `NestJS`
+  `Node.js` `Express.js` `NestJS` `Django` 
 - 🗄️ Database:  
-  `PostgreSQL` `MongoDB` `Redis` `ClickHouse`
+  `PostgreSQL` `MongoDB` `MySQL`
 - 🔌 DevOps & Tools:  
-  `Docker` `Git` `GitHub Actions` `Postman` `n8n`
+  `Docker` `Git` `GitHub` `Postman`
 
 ---
 
