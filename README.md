@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="assets/technology.svg" width="22" alt="technology"/> <h3>Tech Stack</h3>
+### <img src="assets/technology.svg" width="22" alt="technology"/> <span>Tech Stack</span>
 
 - Languages
 <p align="left"> 
