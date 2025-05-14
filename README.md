@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi everyone, Welcome to my GitHub profile</h2> 
+<h1 align="center">👋 Hi everyone, Welcome to my GitHub profile</h1> 
 <h2 align="center">I am Nguyen Chi Nghia but you can call me Toof (Tồ)</h2>
 
 <p align="center">A Junior web developer from VietNam 
